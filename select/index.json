@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "CAKE",
+  "base_artist": "ITZY",
+  "createdAt": "2026-03-24T12:53:34.575874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (with The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Bad_Wine_and_Lemon_Cake_(with_The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (feat. The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_Bad_Wine_and_Lemon_Cake_(feat._The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pound Cake / Paris Morton Music 2",
+      "artist": "Drake feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/03_Pound_Cake___Paris_Morton_Music_2_Drake_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pound Cake / Paris Morton Music 2 (Feat. Jay-Z)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_Pound_Cake___Paris_Morton_Music_2_(Feat._Jay-Z)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cake (feat. Wiz Khalifa)",
+      "artist": "YBN Nahmir feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/05_Cake_(feat._Wiz_Khalifa)_YBN_Nahmir_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cake (feat. Wiz Khalifa)",
+      "artist": "YBN Nahmir",
+      "has_synced": true,
+      "path": "select/06_Cake_(feat._Wiz_Khalifa)_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Piece of Cake",
+      "artist": "Magnapop",
+      "has_synced": true,
+      "path": "select/07_Piece_of_Cake_Magnapop.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cake",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/08_Cake_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cake Happy",
+      "artist": "Cake Pop feat. Dylan Brady, Ravenna Golden & Lewis Grant",
+      "has_synced": true,
+      "path": "select/09_Cake_Happy_Cake_Pop_feat._Dylan_Brady,_Ravenna_Golden_&_Lewis_Grant.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cake Happy",
+      "artist": "Cake Pop",
+      "has_synced": true,
+      "path": "select/10_Cake_Happy_Cake_Pop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wedding Cake",
+      "artist": "dvsn feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/11_Wedding_Cake_dvsn_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wedding Cake",
+      "artist": "Ty Dolla $ign & dvsn",
+      "has_synced": true,
+      "path": "select/12_Wedding_Cake_Ty_Dolla_$ign_&_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chocolate Sludge Cake",
+      "artist": "Let's Eat Grandma",
+      "has_synced": false,
+      "path": "select/13_Chocolate_Sludge_Cake_Let's_Eat_Grandma.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Birthday Cake",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/14_Birthday_Cake_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Birthday Cake",
+      "artist": "Coma Cinema",
+      "has_synced": false,
+      "path": "select/15_Black_Birthday_Cake_Coma_Cinema.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Here on Earth (I’ll Have My Cake)",
+      "artist": "Crash Test Dummies",
+      "has_synced": true,
+      "path": "select/16_Here_on_Earth_(I’ll_Have_My_Cake)_Crash_Test_Dummies.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cake By The Ocean",
+      "artist": "DNCE",
+      "has_synced": true,
+      "path": "select/17_Cake_By_The_Ocean_DNCE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Mambo Craze (Space Cake version)",
+      "artist": "De-Phazz",
+      "has_synced": false,
+      "path": "select/18_The_Mambo_Craze_(Space_Cake_version)_De-Phazz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CAKE",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_CAKE_ITZY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "CAKE",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/localdb_01_CAKE_ITZY.txt",
+      "repo_name": "0bIRwBpBcZQ"
+    }
+  ]
+}
